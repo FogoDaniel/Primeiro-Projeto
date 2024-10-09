@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../.git"
+		},
+		{
+			"path": "../_Exercicio Revisao"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "../IMG"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ac1"
+	}
+}
